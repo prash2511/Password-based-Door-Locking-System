@@ -12,6 +12,7 @@ In most countries that are involved with the use of mechanical locks, the crime 
 So, we have made the Password Based Door Locking System Using Arduino & Keypad. So a digital code lock can secure your home or locker easily. It will open your door only when the right password is entered.
 
 
+
 2. Components Required -
 
 - Arduino Uno Board (Arduino Uno R3 V1.0)
@@ -26,9 +27,11 @@ So, we have made the Password Based Door Locking System Using Arduino & Keypad. 
 - Connection Wires
 
 
+
 3. Circuit Diagram -
 
-![image](https://user-images.githubusercontent.com/76968308/120674308-97cd4600-c4b1-11eb-800d-2ec05d173fd6.png)
+![image](https://user-images.githubusercontent.com/76968308/120674781-11fdca80-c4b2-11eb-966b-6988bab99302.png)
+
 
 
 4. Working -
