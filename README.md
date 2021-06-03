@@ -14,7 +14,7 @@ So, we have made the Password Based Door Locking System Using Arduino & Keypad. 
 
 2. Components Required -
 
-  SR No.   Component Name           Description                      Quantity
+  SR No.        Component Name          Description                         Quantity
     1      Arduino Uno Board        Arduino Uno R3 V1.0                 1
     2      Keypad                   4X3 Keypad                          1
     3      LCD Display              LM044L 20x4 Alphanumeric LCD        1
